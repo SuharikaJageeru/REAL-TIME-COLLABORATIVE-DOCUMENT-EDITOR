@@ -54,3 +54,5 @@ THIS PROJECT SUCCESSFULLY DEMONSTRATES THE IMPLEMENTATION OF A REAL-TIME COLLABO
 
 *OUTPUT*
 
+<img width="1893" height="1038" alt="Image" src="https://github.com/user-attachments/assets/a27cc2e6-accf-47eb-abab-14eb9019ae98" />
+
