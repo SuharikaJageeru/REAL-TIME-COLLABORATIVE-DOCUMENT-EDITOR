@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+#REAL-TIME COLLABORATIVE DOCUMENT EDITOR
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*COMPANY*: CODTECH IT SOLUTIONS 
 
-## Available Scripts
+*NAME*: JAGEERU SUHARIKA
 
-In the project directory, you can run:
+*INTERN ID*: CITS437
 
-### `npm start`
+*DOMAIN*: FULL STACK WEB DEVELOPMENT 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*DURATION*: 4 WEEKS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*MENTOR*: NEELA SANTOSH
 
-### `npm test`
+*PROJECT DESCRIPTION* – REAL-TIME COLLABORATIVE DOCUMENT EDITOR
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+THE CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYTICS IS A FULL-STACK APPLICATION DEVELOPED TO MONITOR USERS' WEB BROWSING ACTIVITIES AND ANALYZE THEIR PRODUCTIVITY. THE SYSTEM TRACKS THE TIME SPENT ON DIFFERENT WEBSITES IN REAL TIME, STORES THE DATA IN A MONGODB DATABASE, AND DISPLAYS PRODUCTIVITY INSIGHTS THROUGH AN INTERACTIVE REACT DASHBOARD.
 
-### `npm run build`
+THE PROJECT USES A CHROME EXTENSION TO DETECT ACTIVE TABS AND RECORD WEBSITE USAGE. THE TRACKED DATA IS SENT TO A NODE.JS AND EXPRESS.JS BACKEND THROUGH RESTFUL APIS. THE BACKEND PROCESSES THE INFORMATION AND STORES IT IN MONGODB USING MONGOOSE. THE DASHBOARD RETRIEVES THE STORED DATA AND PRESENTS WEBSITE USAGE DETAILS SUCH AS DOMAIN NAME, TIME SPENT, AND PRODUCTIVITY STATUS.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+THE SYSTEM CLASSIFIES WEBSITES AS PRODUCTIVE OR UNPRODUCTIVE BASED ON PREDEFINED CATEGORIES. THIS HELPS USERS UNDERSTAND THEIR ONLINE BEHAVIOR AND IMPROVE TIME MANAGEMENT. THE PROJECT FOLLOWS THE MVC ARCHITECTURE AND DEMONSTRATES FULL-STACK DEVELOPMENT, API INTEGRATION, DATABASE MANAGEMENT, AND CHROME EXTENSION DEVELOPMENT.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+TECHNOLOGIES USED
+HTML5
+CSS3
+JAVASCRIPT (ES6)
+REACT.JS
+NODE.JS
+EXPRESS.JS
+MONGODB
+MONGOOSE
+CHROME EXTENSION API
+MANIFEST V3
+FETCH API
+REST API
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+TOOLS USED
+VISUAL STUDIO CODE (VS CODE)
+GOOGLE CHROME
+MONGODB COMPASS
+POSTMAN
+GIT
+GITHUB
 
-### `npm run eject`
+KEY FEATURES
+REAL-TIME WEBSITE TRACKING
+TIME SPENT ANALYSIS
+PRODUCTIVE/UNPRODUCTIVE WEBSITE CLASSIFICATION
+MONGODB DATA STORAGE
+REACT-BASED PRODUCTIVITY DASHBOARD
+REST API COMMUNICATION
+MODULAR MVC ARCHITECTURE
+BROWSER ACTIVITY MONITORING
+PRODUCTIVITY REPORTING
+FULL-STACK WEB APPLICATION DEVELOPMENT
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+*OUTPUT*
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
